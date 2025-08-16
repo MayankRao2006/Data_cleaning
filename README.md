@@ -40,18 +40,6 @@ Pandas
 Jupyter Notebook
 
 🚀 How to Run
-
-Clone this repository
-
-git clone https://github.com/yourusername/Sales-Data-Analysis.git
-cd Sales-Data-Analysis
-
-
-Install dependencies
-
-pip install -r requirements.txt
-
-
-Open the notebook
+Use jupyter lab or VS Code
 
 jupyter notebook Cleaned_Data.ipynb

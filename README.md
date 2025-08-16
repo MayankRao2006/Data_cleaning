@@ -40,6 +40,9 @@ Pandas
 Jupyter Notebook
 
 🚀 How to Run
+
 Use jupyter lab or VS Code
 
 jupyter notebook Cleaned_Data.ipynb
+
+You can also open the file Cleaned_Data.ipynb here on github by clicking on it.
